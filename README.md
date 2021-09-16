@@ -6,6 +6,10 @@ Merhaba arkadaşlar, ROS simülasyon ortamında lidar ile otonom sürüşe giri�
 https://user-images.githubusercontent.com/57320216/133667235-4c6a12df-b476-4f8f-bcbc-ddbd57480474.mp4
 
 
+## Gereksinimler
+- Ubuntu 20.04
+- ROS Noetic
+
 ## Gerekli Kurulumlar 
 
 ### sh kurulumu 
