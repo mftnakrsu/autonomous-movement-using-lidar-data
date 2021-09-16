@@ -42,11 +42,6 @@ Açılan dosyada en alt satıra gelip export  <code>TURTLEBOT3_MODEL=waffle</cod
 
     gazebo  
 ![alt text](https://github.com/mftnakrsu/autonomous-movement-using-lidar-data/blob/main/imgs/1.png)  
-veya  
-
-    roslaunch mybot_gazebo mybot_world.launch  
-![alt text](https://github.com/mftnakrsu/autonomous-movement-using-lidar-data/blob/main/imgs/2.png)  
-
 
 Şimdi de hazır olan bir map'i launch edelim. 
 
